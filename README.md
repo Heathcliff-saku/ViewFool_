@@ -82,7 +82,7 @@ Their performance under Imagenet-v compared to Natural viepoints renderings is a
 | [resnet50_deepaugment](https://arxiv.org/abs/2006.16241)   |  71.25    |19.65
 | [resnet50_augmix+deepaugment](https://arxiv.org/abs/2006.16241) |  72.98     |23.10
 
-### 2.3 Evaluate ImageNet-V on pretrained or your classifier
+### 2.3 Evaluate ImageNet-V on pretrained model or your own model
 
 We provide evaluation scripts for 40 pre-trained models You can use your own classifier for evaluation by replacing the relevant weight paths in the code or defining the model
 

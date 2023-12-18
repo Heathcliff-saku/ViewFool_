@@ -151,7 +151,14 @@ Using ours default parameters (100epoch & 51popsize) to attack an object will ta
 
 If you find our methods useful or use the imagenet-v dataset, please consider citing:
 ```
-...
+@article{dong2022viewfool,
+  title={Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints},
+  author={Dong, Yinpeng and Ruan, Shouwei and Su, Hang and Kang, Caixin and Wei, Xingxing and Zhu, Jun},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={36789--36803},
+  year={2022}
+}
 ```
 
 This project uses  Unofficial implementation of NeRF (Neural Radiance Fields) using pytorch (pytorch-lightning): 
